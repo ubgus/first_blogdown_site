@@ -14,11 +14,8 @@ Lalalalala
 
 This is funny
 
-<<<<<<< HEAD
-```{r}
-=======
+
 ```{r echo=true}
->>>>>>> ad39ea4bbb376c72875ed956f1aa3fba941ba5c8
 
 3+3
 ```
