@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://gallant-lalande-2ec671.netlify.app/"
 languageCode = "en-us"
 title = "This cool website"
 theme = "hugo-lithium"

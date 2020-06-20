@@ -15,7 +15,7 @@ Lalalalala
 This is funny
 
 
-```{r echo=true}
+```{r}
 
 3+3
 ```
