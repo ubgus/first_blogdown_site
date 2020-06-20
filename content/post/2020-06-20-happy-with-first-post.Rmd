@@ -1,0 +1,20 @@
+---
+title: Happy with first post
+author: Gustavo
+date: '2020-06-20'
+slug: happy-with-first-post
+categories:
+  - blogging
+tags:
+  - R Markdown
+---
+
+Lalalalala 
+[Twitter][htpps://www.twitter.com]
+
+```{r echo=FALSE}
+
+3+3
+```
+
+$$\bar{x}=\alpha + 3$$

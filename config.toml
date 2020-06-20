@@ -1,0 +1,55 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "This cool website"
+theme = "hugo-lithium"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+enableEmoji = true
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "About"
+    pre = ""
+    url = "/about/"
+    weight = 1
+[[menu.main]]
+    name = "Facebook"
+    pre = "fa-facebook-square"
+    url = "https://www.facebook.com/EuropeanRUsersMeeting2020"
+    weight = 2
+[[menu.main]]
+    name = "Twitter"
+    pre = "fa-twitter-square"
+    url = "https://twitter.com/erum2020_conf"
+    weight = 3
+[[menu.main]]
+    name = "Posts"
+    pre = "fa-bullhorn"
+    url = "/post/"
+    weight = 4
+
+[params]
+    description = "A website built through Hugo and blogdown. This is a test and I want to see how this looks"
+    customCSS = ["css/erum.css", "css/font-awesome.min.css"]
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    MathJaxVersion = "2.7.5"
+
+    # path to the favicon, under "static"
+    favicon = "favicon.ico"
+
+    [params.logo]
+    url = "eRum2020.png"
+    width = 50
+    height = 50
+    alt = "Logo"
+

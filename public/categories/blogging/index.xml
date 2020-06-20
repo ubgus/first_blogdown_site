@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogging on This cool website</title>
+    <link>/categories/blogging/</link>
+    <description>Recent content in blogging on This cool website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/blogging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Happy with first post</title>
+      <link>/2020/06/20/happy-with-first-post/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/06/20/happy-with-first-post/</guid>
+      <description>Lalalalala[Twitter][htpps://www.twitter.com]
+## [1] 6\[\bar{x}=\alpha + 3\]</description>
+    </item>
+    
+  </channel>
+</rss>
