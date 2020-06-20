@@ -10,9 +10,11 @@ tags:
 ---
 
 Lalalalala 
-[Twitter][htpps://www.twitter.com]
+[Twitter](htpps://www.twitter.com)
 
-```{r echo=FALSE}
+This is funny
+
+```{r}
 
 3+3
 ```
