@@ -37,3 +37,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Blogdown folder (used only by the blogdown package) and the public folder (it will be build in Netlify)
+blogdown/
+public/
